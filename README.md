@@ -23,7 +23,7 @@
 
 ## Stats:
 
-<img align="right" alt="GIF" width="250px" height="200px" src="work.gif" />
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ps99-io&show_icons=true&locale=en&theme=radical" alt="ps99-io" /></p> -->
