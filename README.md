@@ -1,7 +1,7 @@
 # Hi there 👋, I am Preetam Sarkar
 
 **I am a Backend Developver and CSE underGrad Student in Bengal Institute of Technology.**
-**I Like To Implement My Skills On NodeJS, ExpressJs, MongoDB**
+**I Like To Implement My Skills On NodeJS, ExpressJs or any frameworks**
 **and I am an artist I love to sketch portraits in charcoal**
 
 <br>
